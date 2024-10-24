@@ -1,16 +1,30 @@
-# row_column_example_3
+# Hi, I'm Samuel Kevin 👋
 
-A new Flutter project.
+I'm currently a student at **Universitas Bina Sarana Informatika**, majoring in **Information Technology**. I have a passion for technology and enjoy working on projects related to **Moodle system learning**, **training development**, **business development**, and **event management**.
 
-## Getting Started
+## About Me
 
-This project is a starting point for a Flutter application.
+- 💻 **Technology Enthusiast:** I love exploring new technologies and applying them in real-world projects.
+- 📚 **Current Studies:** Pursuing a degree in Information Technology, learning about programming, databases, and system architecture.
+- 🎯 **Interests:** I'm deeply involved in business development, and I often assist with company gatherings and events as part of my role in business-related projects.
+- 🚀 **Learning:** I'm continuously improving my skills in web development, project management, and system design.
 
-A few resources to get you started if this is your first Flutter project:
+## What I Work On
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+I'm involved in a range of projects, from helping companies manage **learning management systems (LMS)** to working on **training programs** and contributing to **business development** initiatives. I also enjoy working on side projects related to web development and automation.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Skills & Tools
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Tools:** Moodle, Git, Figma, Microsoft Office, Slack
+- **Other:** Project Management, Event Planning, Team Collaboration
+
+## How to Reach Me
+
+- LinkedIn: [Samuel Kevin Bagaskara](https://www.linkedin.com/in/samuel-kevin-bagaskara)
+- Instagram: [@samuelkevinb](https://www.instagram.com/samuelkevinb/)
+- GitHub: Feel free to explore my repositories!
+
+---
+
+Thanks for stopping by! 😊
